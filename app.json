@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app_exemplo_15_08",
-    "slug": "app_exemplo_15_08",
+    "name": "appIMC",
+    "slug": "appIMC",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
